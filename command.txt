@@ -1,0 +1,6 @@
+type (scope): subject
+
+type:
+feat: them tinh nang moi
+fix: sua loi
+refactor: tai cau truc ma nguon
